@@ -16,7 +16,7 @@
   Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
 yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
-- Kemudian gunakan perintah input() untuk memasukkan data
+- Kemudian gunakan perintah input() untuk menginput data
 
 ```
 while True:
