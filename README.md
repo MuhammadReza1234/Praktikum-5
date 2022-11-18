@@ -68,3 +68,4 @@ print("==================================================================")
 
 ### OUTPUT
 
+<img width="427" alt="reza ganteng" src="https://user-images.githubusercontent.com/115516607/202634162-e753245d-e699-4a7e-b543-c434f0b4d608.png">
