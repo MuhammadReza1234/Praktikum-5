@@ -71,4 +71,7 @@ print("==================================================================")
 
 # Flowchart
 
+<img width="321" alt="Flowchart" src="https://user-images.githubusercontent.com/115516607/202644055-d16bd8a0-9b4f-4811-a483-566d8e06e1b0.png">
+
+## SEKIAN TUTORIAL TERIMAKASIH
 
