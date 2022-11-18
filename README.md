@@ -7,17 +7,16 @@
 
 <img width="579" alt="Screenshot 180" src="https://user-images.githubusercontent.com/115542704/202370020-187d2651-fd02-4dbf-b415-670ad56cbbbf.png">
 
-- Pertama buat dulu list kosong untuk menampung data-data yang ingin diinputkan
+- Buatlah list kosong untuk menampung data-data yang ingin diinputkan
 
   `data = []`
 
-- Pada program ini gunakan perulangan While
+- Pada program ini saya gunakan perulangan While
 
-  **While** pada python, secara umum akan menjalankan sebuah perintah atau statement selama kondisi tersebut terpenuhi atau kondisi tersebut bernilai TRUE.
+  Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
+yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
-    Jadi pada saat argument tersebut terpenuhi (TRUE) maka statement tersebut akan terus di proses atau dilaksanakan, dan sebaliknya jika argumentnya tidak terpenuhi   (FALSE) maka statement tersebut akan berhenti atau tidak dilaksanakan.
-
-- Kemudian gunakan fungsi input() untuk memasukkan data
+- Kemudian gunakan perintah input() untuk memasukkan data
 
 ```
 while True:
@@ -29,7 +28,7 @@ while True:
     akhir = (tugas * 30 / 100) + (uts * 35 / 100) + (uas * 35 / 100)
 ```
     
-- Untuk menambahkan daftar list gunakan perintah `.append()`
+- Gunakan perintah `.append()` Untuk menambahkan daftar list 
 
 ```
  data.append([nama, nim, tugas, uts, uas, int(akhir)])
@@ -43,14 +42,14 @@ while True:
         more = input("Tambah Data(y/t)?")
 ```
 
-- Perintah if disini digunakan jika data tidak ingin ditambahkan lagi (t) kemudian tambahkan perintah break untuk menghentikan proses perulangan pada kondisi tertentu
+- Perintah if disini digunakan jika data tidak ingin ditambahkan lagi (t), kemudian tambahkan perintah break untuk menghentikan proses perulangan pada kondisi tertentu
 
 ```
     if more == "t":
         break
 ```
 
-- Selanjutnya tampilkan daftar datanya
+- lalu tampilkan daftar datanya
 
 ```
 print("==================================================================")
@@ -66,6 +65,6 @@ for nilai in data:
 print("==================================================================")
 ```
 
-### OUTPUT
+# OUTPUT
 
 <img width="427" alt="reza ganteng" src="https://user-images.githubusercontent.com/115516607/202634162-e753245d-e699-4a7e-b543-c434f0b4d608.png">
